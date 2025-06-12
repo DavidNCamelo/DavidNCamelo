@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-💻📊<br>Industrial Engineer and Data Analyst, most focused on Data Visualization<br><br>Passionate about finding patterns, converting them into high-value insights, and generating great strategies based on choosing the right decisions thanks to the data.<br><br>👨🏽‍💻 Specialized in implementing tools like; Power BI, Tableau, Python, SQL, BigQuery, and a little bit of R, to deliver business solutions at the right time.<br><br>🧬 I have developed skills in teamwork, leadership, frustration management, working under pressure, adaptability to change, and motivation.
+💻📊<br>Industrial Engineer and Data Analyst, most focused on Data Visualization<br><br>Passionate about finding patterns, converting them into high-value insights, and generating great strategies based on choosing the right decisions thanks to the data.<br><br>👨🏽‍💻 Specialized in implementing tools like; Power BI, Tableau, Python, SQL, BigQuery, and R, to deliver business solutions at the right time.<br><br>🧬 I have developed skills in teamwork, leadership, frustration management, working under pressure, adaptability to change, and motivation.
 
 
 ## 🌐 Socials:
