@@ -7,31 +7,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dataanalyst-davidcamelo/?locale=en_US) 
 
 # 💻 Tech Stack:
-### Based for Data Vizualization No-Code
-<img height="47" src="https://img.icons8.com/color/200/power-bi.png"/> ![Tableau](https://go-skill-icons.vercel.app/api/icons?i=tableau) ![Looker Studio](https://go-skill-icons.vercel.app/api/icons?i=looker)
 
-### Data treatment and visualization with code
-[![Data Code](https://skillicons.dev/icons?i=py,r)](https://skillicons.dev) 
-
-Libraries
-
-![Data viz Libraries](https://go-skill-icons.vercel.app/api/icons?i=pandas,matplotlib,numpy)![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
-
-### Querying data over SQL motors
-![SQL](https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,sqlite) ![BQ](https://go-skill-icons.vercel.app/api/icons?i=bigquery) 
-
-### Version control
-![git](https://go-skill-icons.vercel.app/api/icons?i=git) 
-
-Over
-
-![github](https://go-skill-icons.vercel.app/api/icons?i=github,gitlab,bitbucket)
-
-### Traditional IDE
-![vscode](https://go-skill-icons.vercel.app/api/icons?i=vscode)
-
-### Anotation, colaboration no code
-![Notion](https://skillicons.dev/icons?i=notion) 
+| Category | Tech Path |
+| ------ | ----- |
+| **Data Vizualization No-Code** | <img height="47" src="https://img.icons8.com/color/200/power-bi.png"/> ![Tableau](https://go-skill-icons.vercel.app/api/icons?i=tableau) ![Looker Studio](https://go-skill-icons.vercel.app/api/icons?i=looker) |
+| **Data treatment and visualization with code** | [![Data Code](https://skillicons.dev/icons?i=py,r)](https://skillicons.dev) |
+| **Libraries** | ![Data viz Libraries](https://go-skill-icons.vercel.app/api/icons?i=pandas,matplotlib,numpy)![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) |
+| **Querying data over SQL motors** | ![SQL](https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,sqlite) ![BQ](https://go-skill-icons.vercel.app/api/icons?i=bigquery) |
+| **Version control** | ![git](https://go-skill-icons.vercel.app/api/icons?i=git) |
+| &nbsp;&nbsp;&nbsp;&nbsp; Over | ![github](https://go-skill-icons.vercel.app/api/icons?i=github,gitlab,bitbucket) |
+| **Traditional IDE** | ![vscode](https://go-skill-icons.vercel.app/api/icons?i=vscode) <img src="https://github.com/posit-dev/positron/blob/main/positron-product-icons/positron.png?raw=true" alt="Positron" height="50px" /> |
+| **Anotation, colaboration no code** | ![Notion](https://skillicons.dev/icons?i=notion) |
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DavidNCamelo&theme=vision-friendly-dark&hide_border=true)<br/>
