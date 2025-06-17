@@ -7,9 +7,31 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dataanalyst-davidcamelo/?locale=en_US) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Static Badge](https://img.shields.io/badge/Tableau-blue.svg) ![Static Badge](https://img.shields.io/badge/BigQuery-red.svg)
+### Based for Data Vizualization No-Code
+<img height="47" src="https://img.icons8.com/color/200/power-bi.png"/> ![Tableau](https://go-skill-icons.vercel.app/api/icons?i=tableau) ![Looker Studio](https://go-skill-icons.vercel.app/api/icons?i=looker)
 
+### Data treatment and visualization with code
+[![Data Code](https://skillicons.dev/icons?i=py,r)](https://skillicons.dev) 
 
+Libraries
+
+![Data viz Libraries](https://go-skill-icons.vercel.app/api/icons?i=pandas,matplotlib,numpy)![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
+
+### Querying data over SQL motors
+![SQL](https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,sqlite) ![BQ](https://go-skill-icons.vercel.app/api/icons?i=bigquery) 
+
+### Version control
+![git](https://go-skill-icons.vercel.app/api/icons?i=git) 
+
+Over
+
+![github](https://go-skill-icons.vercel.app/api/icons?i=github,gitlab,bitbucket)
+
+### Traditional IDE
+![vscode](https://go-skill-icons.vercel.app/api/icons?i=vscode)
+
+### Anotation, colaboration no code
+![Notion](https://skillicons.dev/icons?i=notion) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DavidNCamelo&theme=vision-friendly-dark&hide_border=true)<br/>
