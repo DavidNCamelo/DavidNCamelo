@@ -9,10 +9,10 @@
 # 💻 Tech Stack:
 
 | Category | Tech Path |
-| ------ | ----- |
+| ------ | ---------------------------------------------- |
 | **Data Vizualization No-Code** | <img height="47" src="https://img.icons8.com/color/200/power-bi.png"/> ![Tableau](https://go-skill-icons.vercel.app/api/icons?i=tableau) ![Looker Studio](https://go-skill-icons.vercel.app/api/icons?i=looker) |
 | **Data treatment and visualization with code** | [![Data Code](https://skillicons.dev/icons?i=py,r)](https://skillicons.dev) |
-| **Libraries** | ![Data viz Libraries](https://go-skill-icons.vercel.app/api/icons?i=pandas,matplotlib,numpy)![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) |
+| **Libraries** | ![Data viz Libraries](https://go-skill-icons.vercel.app/api/icons?i=pandas,matplotlib,numpy) <!-- Plotly --><img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" height="50px" /> <!-- ggplot2 --><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/ggplot2.png" alt="ggplot2" height="50px" /> <!-- Shiny --><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/shiny.png" alt="Shiny" height="50px" /> |
 | **Querying data over SQL motors** | ![SQL](https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,sqlite) ![BQ](https://go-skill-icons.vercel.app/api/icons?i=bigquery) |
 | **Version control** | ![git](https://go-skill-icons.vercel.app/api/icons?i=git) |
 | &nbsp;&nbsp;&nbsp;&nbsp; Over | ![github](https://go-skill-icons.vercel.app/api/icons?i=github,gitlab,bitbucket) |
